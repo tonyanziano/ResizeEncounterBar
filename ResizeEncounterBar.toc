@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: ResizeEncounterBar
+## Notes: Allows the user to scale the default Blizzard "Encounter Bar" which also controls the size of the dragonriding vigor bar.
+## DefaultState: enabled
+## Author: Fignewticus - Zul'jin (H)
+## SavedVariables: ResizeEncounterBarDB
+## Version 1.0.0
+
+Embeds.xml
+ResizeEncounterBar.lua
