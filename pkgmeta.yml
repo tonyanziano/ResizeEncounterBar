@@ -1,0 +1,5 @@
+package-as: ResizeEncounterBar
+
+ignore:
+  - media
+  - README.md
